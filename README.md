@@ -36,7 +36,7 @@
 
 <img src="assets/auto%20encoder%20result.png" width="460" height="280">
 
-- **VAE: training loss and validation loss (MSE) **
+- **VAE: training loss and validation loss (MSE)**
 
 <img src="assets/variational%20auto%20encoder%20result.png" width="450" height="280">
 
@@ -54,7 +54,7 @@
  Auto Encoder | 1.0837 
  Variational Auto Encoder | 0.9956 
  TextCNN-based | 0.7521 
- BERT-based | **0.7507** 
+ **BERT-based** | **0.7507** 
 
-注：* 代表从[https://www.cnblogs.com/lqerio/p/11193471.html](https://www.cnblogs.com/lqerio/p/11193471.html)
+注：* 代表从[https://www.cnblogs.com/lqerio/p/11193471.html](https://www.cnblogs.com/lqerio/p/11193471.html) 获得
 
