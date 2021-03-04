@@ -2,16 +2,16 @@
 
 `Author: YUAN Yanzhe`
 
-该repo记录香港科技大学MSBD 5001课程Project: *Deep Learning Methods for Movie Recommendation*
-
-Movie Recommendation System based on Deep Learning
+该repo是香港科技大学(HKUST) MSBD5001 Data Analysis的Term Project: *[Deep Learning Methods for Movie Recommendation](https://github.com/Jackthebighead/Movie-Recommendation-System-Based-on-Deep-Learning/blob/master/docs/report.pdf)*
 
 本项目使用MovieLens1M数据集，基于以下两类模型实现电影推荐
 
-- Auto Encoder (AE)，Variational Auto Encoder (VAE)，对评分矩阵进行预测填补。
+- 基于Auto Encoder (AE)，Variational Auto Encoder (VAE)的模型。对评分矩阵进行预测填补。
 
-- 基于TextCNN, 对电影文本信息
+- 基于TextCNN和BERT的模型。用TextCNN和BERT对电影文本信息处理，与经NN处理的meta data结合进行预测。
 
+本项目[数据集zip](https://github.com/Jackthebighead/Movie-Recommendation-System-Based-on-Deep-Learning/tree/master/data)，
+本项目的[文档](https://github.com/Jackthebighead/Movie-Recommendation-System-Based-on-Deep-Learning/tree/master/docs)，
 本项目大部分在**Google Colab**环境下运行，少部分在Macbook Pro的CPU上运行，代码中的目录请根据自己的实际目录进行修改。  
 
 ## **Models:**
