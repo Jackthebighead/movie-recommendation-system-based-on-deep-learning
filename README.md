@@ -56,5 +56,5 @@ Movie Recommendation System based on Deep Learning
  TextCNN-based | 0.7521 
  BERT-based | **0.7507** 
 
-`note that * means referenced from https://www.cnblogs.com/lqerio/p/11193471.html`
+注：* 代表从[https://www.cnblogs.com/lqerio/p/11193471.html](https://www.cnblogs.com/lqerio/p/11193471.html)
 
