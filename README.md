@@ -56,5 +56,7 @@
  TextCNN-based | 0.7521 
  **BERT-based** | **0.7507** 
 
-注：* 代表从[https://www.cnblogs.com/lqerio/p/11193471.html](https://www.cnblogs.com/lqerio/p/11193471.html) 获得
+注：
+* 代表从[https://www.cnblogs.com/lqerio/p/11193471.html](https://www.cnblogs.com/lqerio/p/11193471.html) 获得
+* 更多信息欢迎邮件联系
 
