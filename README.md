@@ -1,6 +1,6 @@
 ## 基于深度学习的电影推荐系统 
 
-该repo是香港科技大学(HKUST) MSBD5001 Data Analysis的Term Project: _Deep Learning Methods for Movie Recommendation_
+Term Project: _Deep Learning Methods for Movie Recommendation_
 
 本项目使用MovieLens1M数据集，将两类深度学习模型融入传统推荐模型思想中（基于邻域的模型：e.g. user-based CF，基于隐变量的模型：e.g. SVD）实现电影推荐，提升效果。
 
