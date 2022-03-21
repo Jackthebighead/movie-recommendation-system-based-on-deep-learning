@@ -9,7 +9,6 @@ Term Project: _Deep Learning Methods for Movie Recommendation_
 - 基于TextCNN和BERT处理文本信息，与经NN处理的meta data结合进行预测。
 
 本项目[数据集zip](https://github.com/Jackthebighead/Movie-Recommendation-System-Based-on-Deep-Learning/tree/master/data)，
-本项目的[文档](https://github.com/Jackthebighead/Movie-Recommendation-System-Based-on-Deep-Learning/tree/master/docs)，
 本项目大部分在**Google Colab**环境下运行，少部分在Macbook Pro的CPU上运行，代码中的目录请根据自己的实际目录进行修改。  
 
 ## **Models:**
